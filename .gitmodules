@@ -32,7 +32,7 @@
 	path = bundle/supertab
 	url = https://github.com/ervandew/supertab.git
 [submodule "bundle/airline"]
-	path = bundle/airline
+	path = bundle/vim-airline
 	url = https://github.com/bling/vim-airline.git
 [submodule "bundle/vim-pathogen"]
 	path = bundle/vim-pathogen
@@ -43,3 +43,9 @@
 [submodule "bundle/LaTeX-Box"]
 	path = bundle/LaTeX-Box
 	url = https://github.com/LaTeX-Box-Team/LaTeX-Box.git
+[submodule "bundle/csapprox"]
+	path = bundle/csapprox
+	url = https://github.com/godlygeek/csapprox.git
+[submodule "bundle/mswin"]
+	path = bundle/mswin
+	url = git@github.com:xguse/mswin.vim.git
