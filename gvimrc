@@ -1,1 +1,1 @@
-/home/gus/.vim/vimrc
+vimrc
