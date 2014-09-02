@@ -1,1 +1,0 @@
-/home/gus/Dropbox/repos/git/vim-colors-solarized/colors/solarized.vim
