@@ -40,3 +40,12 @@
 [submodule "bundle/mswin"]
 	path = bundle/mswin
 	url = git@github.com:xguse/mswin.vim.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = https://github.com/msanders/snipmate.vim.git
+[submodule "bundle/vim-multiple-cursors"]
+	path = bundle/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors.git
+[submodule "bundle/vim-online-thesaurus"]
+	path = bundle/vim-online-thesaurus
+	url = https://github.com/beloglazov/vim-online-thesaurus.git
