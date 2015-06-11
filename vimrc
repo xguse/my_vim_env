@@ -19,8 +19,11 @@ colorscheme fruity
 
 
 
-source $HOME/.vim/bundle/mswin/plugin/mswin.vim
+" source $HOME/.vim/bundle/mswin/plugin/mswin.vim
 
+if has('unnamedplus')
+  set clipboard=unnamed,unnamedplus
+endif
 
-au BufWinLeave * mkview
-au BufWinEnter * silent loadview
+au BufWinLeave ?* mkview
+au BufWinEnter ?* silent loadview
