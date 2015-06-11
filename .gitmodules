@@ -66,3 +66,6 @@
 	path = bundle/vim-online-thesaurus
 	url = https://github.com/beloglazov/vim-online-thesaurus.git
 	ignore = dirty
+[submodule "bundle/vim-gotham"]
+	path = bundle/vim-gotham
+	url = git@github.com:whatyouhide/vim-gotham.git
